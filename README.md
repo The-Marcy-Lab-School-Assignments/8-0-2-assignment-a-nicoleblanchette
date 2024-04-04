@@ -1,5 +1,5 @@
 # 8-0-2-assignment
-
+# [DEPLOYMENT](https://nicole-has-a-lot-of-gifs.onrender.com/)
 In this assignment, you will use Express as a Middleman for API requests. Refer to the [lecture notes](https://github.com/The-Marcy-Lab-School/8-0-2-express-api-middleman) for support.
 
 **Table of Contents**
@@ -116,4 +116,4 @@ Then, add the deployed link to your GitHub About section of the Giphy Search app
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section. 
+- [x] Your GitHub page has a link to the deployed server in the About section. 
